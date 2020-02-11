@@ -1,0 +1,18 @@
+.comment {
+  margin-left: 20px;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+.comment p {
+  margin-left: 10px;  
+  background: rgb(211, 211, 211);
+  width: 100%;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+.comment span {
+  margin-left: 5px;
+}

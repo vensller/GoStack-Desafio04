@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+}
+
+body,
+root {
+  height: 100%;
+}
+
+body {
+  background: #ebebeb;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+}

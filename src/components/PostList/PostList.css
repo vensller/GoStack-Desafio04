@@ -1,0 +1,6 @@
+.postList {
+  margin-top: 20px;
+  align-items: center;
+  display: flex;  
+  flex-direction: column;
+}
